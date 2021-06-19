@@ -6,10 +6,8 @@
 
 ```
 # Run in dev mode
-npm run dev
+nodemon server
 
-# Run in prod mode
-npm start
 ```
 
 ## Database Seeder
